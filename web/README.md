@@ -1,15 +1,9 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/davidfaria/gympoint-frontend/master/.github/logo.png">
+<img src="../logo-gympoint.png">
 </h1>
 <h3 align="center">
 Front-end React.js - GoStack Bootcamp <a href="https://rocketseat.com.br" target="__blank">Rocketseat</a>
 </h3>
-
-<p align = "center">
-<img alt = "Última confirmação do Github" src="https://img.shields.io/github/last-commit/davidfaria/gympoint-frontend">
-<img alt = "Idioma principal do GitHub" src="https://img.shields.io/github/languages/top/davidfaria/gympoint-frontend">
-<img alt = "GitHub" src = "https://img.shields.io/github/license/davidfaria/gympoint-frontend.svg">
-</p>
 
 ## :computer: Front-end
 
@@ -19,16 +13,16 @@ Front-end React.js - GoStack Bootcamp <a href="https://rocketseat.com.br" target
 - Node.js [Node.js v10.16](https://nodejs.org/)
 - Yarn [Yarn v1.13](https://yarnpkg.com/)
 - Google Chrome Browser [Google](https://www.google.pt/intl/pt-PT/chrome/?brand=CHBD&gclid=CjwKCAiAxMLvBRBNEiwAKhr-nMvKg5nZhwHd__xLE-Mume31jYijN5WLG991vsf4owDGK4VNHWtrEhoCNRgQAvD_BwE&gclsrc=aw.ds)
-- Back-end Gympoint [Back-end-gympoint](https://github.com/davidfaria/gympoint-backend)
+- Back-end Gympoint [Back-end-gympoint](../backend)
 
 ## Instruções
 
 ```bash
 # clonando o repositório:
-git clone https://github.com/davidfaria/gympoint-frontend.git
+git clone https://github.com/pedrowickert123/bootcamp-gym-point.git
 
 # entrando na pasta do projeto
-cd gympoint-frontend
+cd web
 
 # instalando as dependências
 yarn install
