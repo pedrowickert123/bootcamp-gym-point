@@ -19,11 +19,13 @@ class EnrollmentController {
         {
           model: Student,
           as: 'student',
+          paranoid: false,
           attributes: ['id', 'name'],
         },
         {
           model: Plan,
           as: 'plan',
+          paranoid: false,
           attributes: ['id', 'title'],
         },
       ],
